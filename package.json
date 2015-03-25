@@ -1,0 +1,27 @@
+{
+  "name": "multi",
+  "version": "1.0.0",
+  "description": "Bind multiple functions to a single reference",
+  "main": "multi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/barneycarroll/multi.git"
+  },
+  "keywords": [
+    "composition",
+    "multi",
+    "fp",
+    "functions",
+    "functional",
+    "programming"
+  ],
+  "author": "Barney",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/barneycarroll/multi/issues"
+  },
+  "homepage": "https://github.com/barneycarroll/multi"
+}
